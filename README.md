@@ -1,10 +1,6 @@
 OrdersWebAPISolution
 🧩 Clean Architecture • 🏗️ Repository + Unit of Work • 🚀 ASP.NET Core Web API
 
-🌐 Live Demo
-
-🔗 Public URL: https://orderswebapi20251212133847.azurewebsites.net/swagger
-
 📘 Overview
 
 OrdersWebAPISolution is a clean, modular ASP.NET Core Web API built using best practices:
