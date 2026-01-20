@@ -59,10 +59,6 @@ cd Orders.WebAPI
 dotnet run
 
 
-Your API will now be live on:
-
-https://localhost:<port>
-
 🔥 API Endpoints (example)
 
 ⚠️ Update these according to your actual controller routes.
